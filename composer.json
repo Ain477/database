@@ -1,0 +1,21 @@
+{
+    "name": "aincoder/database",
+    "description": "AinCoder Database class",
+    "type": "library",
+    "require": {
+        "php": "^7.3"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "AinCoder",
+            "email": "hello@aincoder.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "aincoder\\database\\": "src/"
+        }
+    }
+}
